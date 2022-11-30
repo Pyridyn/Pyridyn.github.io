@@ -71,6 +71,10 @@ html {
 .logo--mail {
     width: 30px;
 }
+
+.logo--cv {
+    width: 30px;
+}
 .main {
     display: flex;
     flex-direction: column;
