@@ -32,7 +32,7 @@ html {
     width: 32vw;
     min-width: 275px;
     max-width: 400px;
-    margin: 30px;
+    margin: 30px 30px 100px 30px;
 }
 .header__content {
     padding: 10px;
