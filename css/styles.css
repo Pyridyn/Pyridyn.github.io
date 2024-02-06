@@ -76,7 +76,7 @@ html {
     flex-direction: column;
     justify-content: space-evenly;
     height: 40vh;
-    width: 265px;
+    width: 280px;
     margin-right: 5px;
     margin-left: 5px;
 }
@@ -95,6 +95,7 @@ html {
 .main__content {
     line-height: 1.3rem;
     margin-top: 15px;
+    text-align: center;
 }
 .footer {
     box-sizing: border-box;
